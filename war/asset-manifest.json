@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/saphi/static/css/main.7762e591.css",
+    "main.js": "/saphi/static/js/main.8287c19e.js",
+    "static/js/787.4addb3eb.chunk.js": "/saphi/static/js/787.4addb3eb.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/saphi/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/saphi/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/saphi/index.html",
+    "main.7762e591.css.map": "/saphi/static/css/main.7762e591.css.map",
+    "main.8287c19e.js.map": "/saphi/static/js/main.8287c19e.js.map",
+    "787.4addb3eb.chunk.js.map": "/saphi/static/js/787.4addb3eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7762e591.css",
+    "static/js/main.8287c19e.js"
+  ]
+}
